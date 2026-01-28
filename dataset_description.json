@@ -7,7 +7,7 @@
         "Philip Kragel"
     ],
     "BIDSVersion": "1.4.1",
-    "DatasetDOI": "TODO: eventually a DOI for the dataset",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007335.v1.0.0",
     "Funding": [
         "NIMH R01MH134972",
         "NIGMS K12GM000680"
